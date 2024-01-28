@@ -51,4 +51,4 @@ Building an orchestration pipeline to streamline the SCD loads.
 - Data engineering & Data Preparation
 - BI & data analytics design
 
- # Reference Book: Business Intelligence Guidebook: From Data Integration to Analytics
+ ## Reference Book: Business Intelligence Guidebook: From Data Integration to Analytics
