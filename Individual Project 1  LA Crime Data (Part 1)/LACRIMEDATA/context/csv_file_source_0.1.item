@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><xmi:XMI xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:version="2.0">
+  <talendfile:ContextType confirmationNeeded="false" name="Default" xmi:id="_dzdPIGPoEe6Mq4KuZeP7tQ">
+    <contextParameter comment="" name="csv_file_source_File" prompt="csv_file_source_File?" promptNeeded="false" repositoryContextId="" type="id_File" value="C:/Users/muska/Downloads/Crime_Data_from_2020_to_Present_4102023.csv" xmi:id="_dzdPIWPoEe6Mq4KuZeP7tQ"/>
+    <contextParameter comment="" name="csv_file_source_RowSeparator" prompt="csv_file_source_RowSeparator?" promptNeeded="false" repositoryContextId="" type="id_String" value="&quot;\n&quot;" xmi:id="_dzdPImPoEe6Mq4KuZeP7tQ"/>
+    <contextParameter comment="" name="csv_file_source_Header" prompt="csv_file_source_Header?" promptNeeded="false" repositoryContextId="" type="id_Integer" value="1" xmi:id="_dzdPI2PoEe6Mq4KuZeP7tQ"/>
+    <contextParameter comment="" name="csv_file_source_FieldSeparator" prompt="csv_file_source_FieldSeparator?" promptNeeded="false" repositoryContextId="" type="id_String" value="&quot;,&quot;" xmi:id="_dzdPJGPoEe6Mq4KuZeP7tQ"/>
+    <contextParameter comment="" name="csv_file_source_Encoding" prompt="csv_file_source_Encoding?" promptNeeded="false" repositoryContextId="" type="id_String" value="US-ASCII" xmi:id="_dzdPJWPoEe6Mq4KuZeP7tQ"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType confirmationNeeded="false" name="Development" xmi:id="_dzdPJmPoEe6Mq4KuZeP7tQ">
+    <contextParameter comment="" name="csv_file_source_File" prompt="csv_file_source_File?" promptNeeded="false" repositoryContextId="" type="id_File" value="C:/Users/muska/Downloads/Crime_Data_from_2020_to_Present_4102023.csv" xmi:id="_dzdPJ2PoEe6Mq4KuZeP7tQ"/>
+    <contextParameter comment="" name="csv_file_source_RowSeparator" prompt="csv_file_source_RowSeparator?" promptNeeded="false" repositoryContextId="" type="id_String" value="&quot;\n&quot;" xmi:id="_dzdPKGPoEe6Mq4KuZeP7tQ"/>
+    <contextParameter comment="" name="csv_file_source_Header" prompt="csv_file_source_Header?" promptNeeded="false" repositoryContextId="" type="id_Integer" value="1" xmi:id="_dzdPKWPoEe6Mq4KuZeP7tQ"/>
+    <contextParameter comment="" name="csv_file_source_FieldSeparator" prompt="csv_file_source_FieldSeparator?" promptNeeded="false" repositoryContextId="" type="id_String" value="&quot;,&quot;" xmi:id="_dzdPKmPoEe6Mq4KuZeP7tQ"/>
+    <contextParameter comment="" name="csv_file_source_Encoding" prompt="csv_file_source_Encoding?" promptNeeded="false" repositoryContextId="" type="id_String" value="US-ASCII" xmi:id="_dzdPK2PoEe6Mq4KuZeP7tQ"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType confirmationNeeded="false" name="Test" xmi:id="_dzdPLGPoEe6Mq4KuZeP7tQ">
+    <contextParameter comment="" name="csv_file_source_File" prompt="csv_file_source_File?" promptNeeded="false" repositoryContextId="" type="id_File" value="C:/Users/muska/Downloads/Crime_Data_from_2020_to_Present_4102023.csv" xmi:id="_dzdPLWPoEe6Mq4KuZeP7tQ"/>
+    <contextParameter comment="" name="csv_file_source_RowSeparator" prompt="csv_file_source_RowSeparator?" promptNeeded="false" repositoryContextId="" type="id_String" value="&quot;\n&quot;" xmi:id="_dzdPLmPoEe6Mq4KuZeP7tQ"/>
+    <contextParameter comment="" name="csv_file_source_Header" prompt="csv_file_source_Header?" promptNeeded="false" repositoryContextId="" type="id_Integer" value="1" xmi:id="_dzdPL2PoEe6Mq4KuZeP7tQ"/>
+    <contextParameter comment="" name="csv_file_source_FieldSeparator" prompt="csv_file_source_FieldSeparator?" promptNeeded="false" repositoryContextId="" type="id_String" value="&quot;,&quot;" xmi:id="_dzdPMGPoEe6Mq4KuZeP7tQ"/>
+    <contextParameter comment="" name="csv_file_source_Encoding" prompt="csv_file_source_Encoding?" promptNeeded="false" repositoryContextId="" type="id_String" value="US-ASCII" xmi:id="_dzdPMWPoEe6Mq4KuZeP7tQ"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType confirmationNeeded="false" name="Production" xmi:id="_dzdPMmPoEe6Mq4KuZeP7tQ">
+    <contextParameter comment="" name="csv_file_source_File" prompt="csv_file_source_File?" promptNeeded="false" repositoryContextId="" type="id_File" value="C:/Users/muska/Downloads/Crime_Data_from_2020_to_Present_4102023.csv" xmi:id="_dzdPM2PoEe6Mq4KuZeP7tQ"/>
+    <contextParameter comment="" name="csv_file_source_RowSeparator" prompt="csv_file_source_RowSeparator?" promptNeeded="false" repositoryContextId="" type="id_String" value="&quot;\n&quot;" xmi:id="_dzdPNGPoEe6Mq4KuZeP7tQ"/>
+    <contextParameter comment="" name="csv_file_source_Header" prompt="csv_file_source_Header?" promptNeeded="false" repositoryContextId="" type="id_Integer" value="1" xmi:id="_dzdPNWPoEe6Mq4KuZeP7tQ"/>
+    <contextParameter comment="" name="csv_file_source_FieldSeparator" prompt="csv_file_source_FieldSeparator?" promptNeeded="false" repositoryContextId="" type="id_String" value="&quot;,&quot;" xmi:id="_dzdPNmPoEe6Mq4KuZeP7tQ"/>
+    <contextParameter comment="" name="csv_file_source_Encoding" prompt="csv_file_source_Encoding?" promptNeeded="false" repositoryContextId="" type="id_String" value="US-ASCII" xmi:id="_dzdPN2PoEe6Mq4KuZeP7tQ"/>
+  </talendfile:ContextType>
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#" Id="_b2053adc-3785-4c1e-901e-55f4d6a6cef1"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/><SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha512"/><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>xUlB1ccFYp6yYQ2W7i3js+xqfnd4RKfGIu5qVkuWu/XDpGbFrNBAnsMtD9KpvCCOixqPRWVYiIal&#13;
+6YidBWFGMQ==</DigestValue></Reference><Reference Type="http://www.w3.org/2000/09/xmldsig#SignatureProperties" URI="#_148ae1d8-d707-4d89-9af7-2dd0dd4cc7b6"><Transforms><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>lyXf96Rl1uSI1lvZR1gaNtoi2dWOgHXlQr4tgwK48lc01lxKuwjmcxOTTlGtQCYCQxZ0oIX3yHqd&#13;
+70y285nVoA==</DigestValue></Reference></SignedInfo><SignatureValue>FUW/NX5lDhA+58uxCMJmLdzK/YSa9axr559UW75WdtH8PJzaFHxEfbPuxUiRt2U55g3+DaSojB83&#13;
+7cV6A5iIM/MTMvn67x2duJ4vcP+c0o+QQMfNZq2SwOOtpYXbFgbXBIJ9lhPIB6O55KRcdn2t+UdM&#13;
+JLThkVgzKJkldkYpyaDnju/DjaWYKBkIaxxHL0teX8U39kmklC+jkJCsbUJO06M2Ll6YyIEcAk5Q&#13;
+gTn/qMs6NmZcGT/A0vsuotp1g42uytk6Z7iIJrGD4NuVFcZ1nO0LYfMeX5b0Ny+cm02xcrC4USyz&#13;
+KGoJWkuy1HCN6nGf+8N1zQABUreVN6X3z1nk8w==</SignatureValue><KeyInfo><X509Data><X509SubjectName>C=FR,ST=Paris,L=Paris,O=Talend Inc.,OU=R&amp;D,CN=Talend Code Signing certificate</X509SubjectName><X509Certificate>MIIFADCCAuigAwIBAgIIA2OsD6bRyj0wDQYJKoZIhvcNAQELBQAwgY0xCzAJBgNVBAYTAkZSMQ4w&#13;
+DAYDVQQIEwVQYXJpczEOMAwGA1UEBxMFUGFyaXMxFDASBgNVBAoTC1RhbGVuZCBJbmMuMQwwCgYD&#13;
+VQQLDANSJkQxFjAUBgNVBAMMDVRhbGVuZCBSJkQgQ0ExIjAgBgkqhkiG9w0BCQEWE3NlY3VyaXR5&#13;
+QHRhbGVuZC5jb20wHhcNMTkwNjAzMDgxODIwWhcNMjkwNjAzMDAwMDAwWjB7MSgwJgYDVQQDEx9U&#13;
+YWxlbmQgQ29kZSBTaWduaW5nIGNlcnRpZmljYXRlMQwwCgYDVQQLDANSJkQxFDASBgNVBAoTC1Rh&#13;
+bGVuZCBJbmMuMQ4wDAYDVQQHEwVQYXJpczEOMAwGA1UECBMFUGFyaXMxCzAJBgNVBAYTAkZSMIIB&#13;
+IjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAp5TMF8BmRt8dY51t9kIDdDkoOKVVytJN2gn2&#13;
+DhMGi8hzpUofNDykJDhe9SPqyJdGZ6o/h7laTA0/CivKyPT1OJQ9E2gMHKs8cTZM/cO2w0Atlqkl&#13;
+alIxepol0DNnUtmECVBqdnVsJesfmdoeptxgJAtxYbquFsTsrATNY2cscXpwmOca/Ewip48WQLFx&#13;
+e5s067jaIsAQGRIqpIup3bOtWBySrtImJ40lQCPeEcl96qzkv3utaVaNc3ukkhYkCDbMbK8NVd1B&#13;
+CVeeIBAe+n/SdpHH20o+6eIiZecsBGDLwlTYrFvuVqAa6xI7y8Vdz6irjPAVBEtG/iOc782aJ/lZ&#13;
+TwIDAQABo3UwczAMBgNVHRMBAf8EAjAAMA4GA1UdDwEB/wQEAwIHgDATBgNVHSUEDDAKBggrBgEF&#13;
+BQcDAzAdBgNVHQ4EFgQUGdfzQEbjQnANq28sfhEMTx+rsOcwHwYDVR0jBBgwFoAU530Lcvy1gZnG&#13;
+gCvZLOyCczK1qPcwDQYJKoZIhvcNAQELBQADggIBAEr22wnaQwZm2dhbUCqD+qZpTq2AF/tzxqAM&#13;
+eL/CiTjPbTblS4SNNwCKvTgMe9ucpUbenXmK7xE+DU9dN4om+t3VHbkOLQVyuLcd2WGsy7ZGwRvA&#13;
+f+TFwLbwjyTukOGm6Sd1qyZgvCPzBsKnft6vscvGy2yEpmFCeHJyBP8pvchg607zguRdNbkGYZXw&#13;
+G6jNipAbTtzdPTFKKr1bEf0sUGqMrlZIMPjflh2Vewu8ImNdX5IZdvBD6DdFVOC5wqV6u+W9ukE/&#13;
+mXZxDBYNl2AF7FTh04ucEVN3mHv7m2L0uFvUlhxchcagJhJsdQG+A0LVCemHbp6CSNQJx02KxqUG&#13;
+hakvpzhOyLo91h8YAQrEZJdNuKA8IYmBrFZQZDCz0uywKSyFfzPyJhvxylCLG/iDPPfE0VWcrMJ/&#13;
+WQJly/2XPg/NBCTF3pSKS0kCiA7PeaI3cWkMYYA3PMwYDvzqs1opBRglG7ikj0bQxSm3lcjMuuvW&#13;
+gBRksFKjP3K/nztsjSoYITOM9jR29ReIL3v0E8RbAFwA2RGq6Dxd0ixfbucMesy5Gnr8tfYy6rW+&#13;
+qSQqd3ah4+PSzBNVwIB4ytpdrG3SlhCI2i2Th8ek8Sjsaquh9qPAerWNd2+84HWOOGj1Xe1qc6vg&#13;
+qqu6JoK9EXKDiwBqDVkueIa+MhamE1VDnhn2pPui</X509Certificate></X509Data></KeyInfo><Object><SignatureProperties><SignatureProperty Id="_148ae1d8-d707-4d89-9af7-2dd0dd4cc7b6" Target="#_b2053adc-3785-4c1e-901e-55f4d6a6cef1"><Timestamp>2023-10-06 01:34:17</Timestamp></SignatureProperty></SignatureProperties></Object></Signature></xmi:XMI>

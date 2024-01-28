@@ -1,0 +1,92 @@
+<?xml version="1.1" encoding="UTF-8"?>
+
+<externalNode i18n.job.component.parameters="Component Parameters:" i18n.job.properties="Properties" i18n.job.values="Values" i18n.mapper.table.for="Mapper table for " i18n.mapper.table.properties="Mapper table Properties" i18n.job.name="Name" i18n.tmap.matching.mode="Matching-mode" i18n.mapper.table.isminimized="isMinimized" i18n.tmap.isreject="isReject" i18n.tmap.isrejectinnnerjoin="isRejectInnerJoin" i18n.tmap.isinnerjoin="isInnerJoin" i18n.tmap.expressionfilter="expressionFilter" i18n.mapper.table.metadata.entries="Metadata Table Entries" i18n.job.type="Type" i18n.mapper.table.expression="Expression" i18n.tmap.isnullable="isNullable" i18n.tmap.constraint.entries="Constraint Table Entries" name="tMap_1" preview="pictures/_UaUekGUyEe6iZ-kZ980HoQ-tMap_1-PREVIEW.bmp">
+  <parameters>
+    <column name="tStatCatcher Statistics">false</column>
+    <column name="Mapping links display as:">AUTO</column>
+    <column name="Temp data directory path:"></column>
+    <column name="Max buffer size (nb of rows):">2000000</column>
+    <column name="Ignore trailing zeros for BigDecimal">true</column>
+    <column name="Show Information">false</column>
+    <column name="Comment"><![CDATA[]]></column>
+    <column name="Use an existing validation rule">false</column>
+  </parameters>
+  <mapperTable type="input">
+    <table name="row1" matching-mode="UNIQUE_MATCH" lookup-mode="LOAD_ONCE" isMinimized="false" isReject="false" isRejectInnerJoin="false" isInnerJoin="false" isPersistent="false" expressionFilter="null" activateExpressionFilter="false" activateCondensedTool="false" activateColumnNameFilter="false" columnNameFilter="null">
+      <metadataTableEntries>
+        <entry name="DR_NO" type="String" expression="" isNullable="true"/>
+        <entry name="Date_Rptd" type="String" expression="" isNullable="true"/>
+        <entry name="DATE_OCC" type="String" expression="" isNullable="true"/>
+        <entry name="TIME_OCC" type="String" expression="" isNullable="true"/>
+        <entry name="AREA" type="String" expression="" isNullable="true"/>
+        <entry name="AREA_NAME" type="String" expression="" isNullable="true"/>
+        <entry name="Rpt_Dist_No" type="String" expression="" isNullable="true"/>
+        <entry name="Part_1_2" type="Integer" expression="" isNullable="true"/>
+        <entry name="Crm_Cd" type="String" expression="" isNullable="true"/>
+        <entry name="Crm_Cd_Desc" type="String" expression="" isNullable="true"/>
+        <entry name="Mocodes" type="String" expression="" isNullable="true"/>
+        <entry name="Vict_Age" type="String" expression="" isNullable="true"/>
+        <entry name="Vict_Sex" type="String" expression="" isNullable="true"/>
+        <entry name="Vict_Descent" type="String" expression="" isNullable="true"/>
+        <entry name="Premis_Cd" type="Integer" expression="" isNullable="true"/>
+        <entry name="Premis_Desc" type="String" expression="" isNullable="true"/>
+        <entry name="Weapon_Used_Cd" type="String" expression="" isNullable="true"/>
+        <entry name="Weapon_Desc" type="String" expression="" isNullable="true"/>
+        <entry name="Status" type="String" expression="" isNullable="true"/>
+        <entry name="Status_Desc" type="String" expression="" isNullable="true"/>
+        <entry name="Crm_Cd_1" type="String" expression="" isNullable="true"/>
+        <entry name="Crm_Cd_2" type="String" expression="" isNullable="true"/>
+        <entry name="Crm_Cd_3" type="String" expression="" isNullable="true"/>
+        <entry name="Crm_Cd_4" type="String" expression="" isNullable="true"/>
+        <entry name="LOCATION" type="String" expression="" isNullable="true"/>
+        <entry name="Cross_Street" type="String" expression="" isNullable="true"/>
+        <entry name="LAT" type="Float" expression="" isNullable="true"/>
+        <entry name="LON" type="Float" expression="" isNullable="true"/>
+      </metadataTableEntries>
+    </table>
+  </mapperTable>
+  <mapperTable type="output">
+    <table name="AzureStageJob" isMinimized="false" isReject="false" isRejectInnerJoin="false" isInnerJoin="false" isPersistent="false" expressionFilter="null" activateExpressionFilter="false" activateCondensedTool="false" activateColumnNameFilter="false" columnNameFilter="null">
+      <metadataTableEntries>
+        <entry name="DR_NO" type="String" expression="row1.DR_NO" isNullable="true"/>
+        <entry name="Date_Rptd" type="String" expression="row1.Date_Rptd" isNullable="true"/>
+        <entry name="DATE_OCC" type="String" expression="row1.DATE_OCC" isNullable="true"/>
+        <entry name="TIME_OCC" type="String" expression="row1.TIME_OCC" isNullable="true"/>
+        <entry name="AREA" type="String" expression="row1.AREA" isNullable="true"/>
+        <entry name="AREA_NAME" type="String" expression="row1.AREA_NAME" isNullable="true"/>
+        <entry name="Rpt_Dist_No" type="String" expression="row1.Rpt_Dist_No" isNullable="true"/>
+        <entry name="Part_1_2" type="Integer" expression="row1.Part_1_2" isNullable="true"/>
+        <entry name="Crm_Cd" type="String" expression="row1.Crm_Cd" isNullable="true"/>
+        <entry name="Crm_Cd_Desc" type="String" expression="row1.Crm_Cd_Desc" isNullable="true"/>
+        <entry name="Mocodes" type="String" expression="row1.Mocodes" isNullable="true"/>
+        <entry name="Vict_Age" type="String" expression="row1.Vict_Age" isNullable="true"/>
+        <entry name="Vict_Sex" type="String" expression="row1.Vict_Sex" isNullable="true"/>
+        <entry name="Vict_Descent" type="String" expression="row1.Vict_Descent" isNullable="true"/>
+        <entry name="Premis_Cd" type="Integer" expression="row1.Premis_Cd" isNullable="true"/>
+        <entry name="Premis_Desc" type="String" expression="row1.Premis_Desc" isNullable="true"/>
+        <entry name="Weapon_Used_Cd" type="String" expression="row1.Weapon_Used_Cd" isNullable="true"/>
+        <entry name="Weapon_Desc" type="String" expression="row1.Weapon_Desc" isNullable="true"/>
+        <entry name="Status" type="String" expression="row1.Status" isNullable="true"/>
+        <entry name="Status_Desc" type="String" expression="row1.Status_Desc" isNullable="true"/>
+        <entry name="Crm_Cd_1" type="String" expression="row1.Crm_Cd_1" isNullable="true"/>
+        <entry name="Crm_Cd_2" type="String" expression="row1.Crm_Cd_2" isNullable="true"/>
+        <entry name="Crm_Cd_3" type="String" expression="row1.Crm_Cd_3" isNullable="true"/>
+        <entry name="Crm_Cd_4" type="String" expression="row1.Crm_Cd_4" isNullable="true"/>
+        <entry name="LOCATION" type="String" expression="row1.LOCATION" isNullable="true"/>
+        <entry name="Cross_Street" type="String" expression="row1.Cross_Street" isNullable="true"/>
+        <entry name="LAT" type="Float" expression="row1.LAT" isNullable="true"/>
+        <entry name="LON" type="Float" expression="row1.LON" isNullable="true"/>
+        <entry name="DI_CreatedDate" type="java.util.Date" expression="Var.SystemDate " isNullable="true"/>
+        <entry name="DI_ProcessID" type="String" expression="Var.ProcessID " isNullable="true"/>
+      </metadataTableEntries>
+    </table>
+  </mapperTable>
+  <mapperTable type="var">
+    <table name="Var" isMinimized="false" isReject="false" isRejectInnerJoin="false" isInnerJoin="false" isPersistent="false" expressionFilter="null" activateExpressionFilter="false" activateCondensedTool="false" activateColumnNameFilter="false" columnNameFilter="null">
+      <metadataTableEntries>
+        <entry name="SystemDate" type="java.util.Date" expression="TalendDate.getCurrentDate() " isNullable="false"/>
+        <entry name="ProcessID" type="String" expression="pid" isNullable="false"/>
+      </metadataTableEntries>
+    </table>
+  </mapperTable>
+</externalNode>

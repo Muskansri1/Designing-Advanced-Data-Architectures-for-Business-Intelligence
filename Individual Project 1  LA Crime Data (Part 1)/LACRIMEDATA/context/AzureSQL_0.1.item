@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><xmi:XMI xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:version="2.0">
+  <talendfile:ContextType confirmationNeeded="false" name="Default" xmi:id="_OBQR8GP5Ee6dcpHtmzPPWQ">
+    <contextParameter comment="" name="AzureSQL_Port" prompt="AzureSQL_Port?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="1433" xmi:id="_OBQR8WP5Ee6dcpHtmzPPWQ"/>
+    <contextParameter comment="" name="AzureSQL_Database" prompt="AzureSQL_Database?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="demo123" xmi:id="_OBQR8mP5Ee6dcpHtmzPPWQ"/>
+    <contextParameter comment="" name="AzureSQL_Password" prompt="AzureSQL_Password?" promptNeeded="false" repositoryContextId="built-in" type="id_Password" value="enc:system.encryption.key.v1:/Qyheeuo1te5uXi5OWc2zw8Yb4zPT1ykqj3ZO45tQQCVuWySX4s=" xmi:id="_OBQR82P5Ee6dcpHtmzPPWQ"/>
+    <contextParameter comment="" name="AzureSQL_AdditionalParams" prompt="AzureSQL_AdditionalParams?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="" xmi:id="_OBQR9GP5Ee6dcpHtmzPPWQ"/>
+    <contextParameter comment="" name="AzureSQL_Schema" prompt="AzureSQL_Schema?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="" xmi:id="_OBQR9WP5Ee6dcpHtmzPPWQ"/>
+    <contextParameter comment="" name="AzureSQL_Login" prompt="AzureSQL_Login?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="srivastava.mu.admin@demoserver1910" xmi:id="_OBQR9mP5Ee6dcpHtmzPPWQ"/>
+    <contextParameter comment="" name="AzureSQL_Server" prompt="AzureSQL_Server?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="demoserver1910.database.windows.net" xmi:id="_OBQR92P5Ee6dcpHtmzPPWQ"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType confirmationNeeded="false" name="Development" xmi:id="_cmbyoGP5Ee6dcpHtmzPPWQ">
+    <contextParameter comment="" name="AzureSQL_Port" prompt="AzureSQL_Port?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="1433" xmi:id="_cmbyoWP5Ee6dcpHtmzPPWQ"/>
+    <contextParameter comment="" name="AzureSQL_Database" prompt="AzureSQL_Database?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="demo123" xmi:id="_cmbyomP5Ee6dcpHtmzPPWQ"/>
+    <contextParameter comment="" name="AzureSQL_Password" prompt="AzureSQL_Password?" promptNeeded="false" repositoryContextId="built-in" type="id_Password" value="enc:system.encryption.key.v1:jkQp63fJDjS2GZxQ/jKbte271ONG8DUFl9k8IXJuquq2y9eJFlk=" xmi:id="_cmbyo2P5Ee6dcpHtmzPPWQ"/>
+    <contextParameter comment="" name="AzureSQL_AdditionalParams" prompt="AzureSQL_AdditionalParams?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="" xmi:id="_cmbypGP5Ee6dcpHtmzPPWQ"/>
+    <contextParameter comment="" name="AzureSQL_Schema" prompt="AzureSQL_Schema?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="" xmi:id="_cmbypWP5Ee6dcpHtmzPPWQ"/>
+    <contextParameter comment="" name="AzureSQL_Login" prompt="AzureSQL_Login?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="srivastava.mu.admin@demoserver1910" xmi:id="_cmbypmP5Ee6dcpHtmzPPWQ"/>
+    <contextParameter comment="" name="AzureSQL_Server" prompt="AzureSQL_Server?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="demoserver1910.database.windows.net" xmi:id="_cmbyp2P5Ee6dcpHtmzPPWQ"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType confirmationNeeded="false" name="Test" xmi:id="_cmbyqGP5Ee6dcpHtmzPPWQ">
+    <contextParameter comment="" name="AzureSQL_Port" prompt="AzureSQL_Port?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="1433" xmi:id="_cmbyqWP5Ee6dcpHtmzPPWQ"/>
+    <contextParameter comment="" name="AzureSQL_Database" prompt="AzureSQL_Database?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="demo123" xmi:id="_cmbyqmP5Ee6dcpHtmzPPWQ"/>
+    <contextParameter comment="" name="AzureSQL_Password" prompt="AzureSQL_Password?" promptNeeded="false" repositoryContextId="built-in" type="id_Password" value="enc:system.encryption.key.v1:61PIJs1jFmtbMgL2G3Yy+lnHEzne7zDUQB0WWasOD6ZdHqzr354=" xmi:id="_cmbyq2P5Ee6dcpHtmzPPWQ"/>
+    <contextParameter comment="" name="AzureSQL_AdditionalParams" prompt="AzureSQL_AdditionalParams?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="" xmi:id="_cmbyrGP5Ee6dcpHtmzPPWQ"/>
+    <contextParameter comment="" name="AzureSQL_Schema" prompt="AzureSQL_Schema?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="" xmi:id="_cmbyrWP5Ee6dcpHtmzPPWQ"/>
+    <contextParameter comment="" name="AzureSQL_Login" prompt="AzureSQL_Login?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="srivastava.mu.admin@demoserver1910" xmi:id="_cmbyrmP5Ee6dcpHtmzPPWQ"/>
+    <contextParameter comment="" name="AzureSQL_Server" prompt="AzureSQL_Server?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="demoserver1910.database.windows.net" xmi:id="_cmbyr2P5Ee6dcpHtmzPPWQ"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType confirmationNeeded="false" name="Production" xmi:id="_cmbysGP5Ee6dcpHtmzPPWQ">
+    <contextParameter comment="" name="AzureSQL_Port" prompt="AzureSQL_Port?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="1433" xmi:id="_cmbysWP5Ee6dcpHtmzPPWQ"/>
+    <contextParameter comment="" name="AzureSQL_Database" prompt="AzureSQL_Database?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="demo123" xmi:id="_cmbysmP5Ee6dcpHtmzPPWQ"/>
+    <contextParameter comment="" name="AzureSQL_Password" prompt="AzureSQL_Password?" promptNeeded="false" repositoryContextId="built-in" type="id_Password" value="enc:system.encryption.key.v1:akev26xT7XVDNpbpjaZlT9HGJYffKKkUpG++P0ocTKwsirIGjnY=" xmi:id="_cmbys2P5Ee6dcpHtmzPPWQ"/>
+    <contextParameter comment="" name="AzureSQL_AdditionalParams" prompt="AzureSQL_AdditionalParams?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="" xmi:id="_cmbytGP5Ee6dcpHtmzPPWQ"/>
+    <contextParameter comment="" name="AzureSQL_Schema" prompt="AzureSQL_Schema?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="" xmi:id="_cmbytWP5Ee6dcpHtmzPPWQ"/>
+    <contextParameter comment="" name="AzureSQL_Login" prompt="AzureSQL_Login?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="srivastava.mu.admin@demoserver1910" xmi:id="_cmbytmP5Ee6dcpHtmzPPWQ"/>
+    <contextParameter comment="" name="AzureSQL_Server" prompt="AzureSQL_Server?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="demoserver1910.database.windows.net" xmi:id="_cmbyt2P5Ee6dcpHtmzPPWQ"/>
+  </talendfile:ContextType>
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#" Id="_1024960a-61f4-42e1-bdf9-6e29f5607eb1"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/><SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha512"/><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>YLd+1ujuUxQXK136zmnEePVPjEZy/zC2qgH7M/teCImbSudvg08qIQ3xRYacEjcS7s7Nbz2uOSd+&#13;
+6tXdHLY6mA==</DigestValue></Reference><Reference Type="http://www.w3.org/2000/09/xmldsig#SignatureProperties" URI="#_6983b9e6-e8b6-475d-9713-375b93cff0bd"><Transforms><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>mvDauPxAdo6I8Buxt/al3KS7jF/nrDtzpB5BLVVqY9LehTd1/ni1fVDwzCf8j0olJNHnK2IgHq2B&#13;
+y35g8ZltAQ==</DigestValue></Reference></SignedInfo><SignatureValue>TorRS092narFlabKYRrxpGdCEP0TkFxxsebFm47GtER/0IvMbEgwQh5Epfbx2ifAmp0rrAptjUe/&#13;
+fEvYIGPMgPUiLd9MakmZDqUcs1CKIChYC8ppQq5KiyaWVD0oTg+entfbvIZq4hUSsw6ql2+xsOcU&#13;
+tyolMKHm2ovABtkTsvzUP70gGUQZjVALNv5sAkHARSDdeNHKZmdicoIjw+hBBYvK8utvTgI+DTZX&#13;
+/tRilMARzq10Lv4mmIi2vtVyM5TiyTyRUwnzv/wlu6s2T2wvfhHoAgQ5MSlDxVhMchr4D84E6DIQ&#13;
+2kTSqXqs1vgaNPRN0Qpt5xD8xuQZKHrIqjIvvw==</SignatureValue><KeyInfo><X509Data><X509SubjectName>C=FR,ST=Paris,L=Paris,O=Talend Inc.,OU=R&amp;D,CN=Talend Code Signing certificate</X509SubjectName><X509Certificate>MIIFADCCAuigAwIBAgIIA2OsD6bRyj0wDQYJKoZIhvcNAQELBQAwgY0xCzAJBgNVBAYTAkZSMQ4w&#13;
+DAYDVQQIEwVQYXJpczEOMAwGA1UEBxMFUGFyaXMxFDASBgNVBAoTC1RhbGVuZCBJbmMuMQwwCgYD&#13;
+VQQLDANSJkQxFjAUBgNVBAMMDVRhbGVuZCBSJkQgQ0ExIjAgBgkqhkiG9w0BCQEWE3NlY3VyaXR5&#13;
+QHRhbGVuZC5jb20wHhcNMTkwNjAzMDgxODIwWhcNMjkwNjAzMDAwMDAwWjB7MSgwJgYDVQQDEx9U&#13;
+YWxlbmQgQ29kZSBTaWduaW5nIGNlcnRpZmljYXRlMQwwCgYDVQQLDANSJkQxFDASBgNVBAoTC1Rh&#13;
+bGVuZCBJbmMuMQ4wDAYDVQQHEwVQYXJpczEOMAwGA1UECBMFUGFyaXMxCzAJBgNVBAYTAkZSMIIB&#13;
+IjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAp5TMF8BmRt8dY51t9kIDdDkoOKVVytJN2gn2&#13;
+DhMGi8hzpUofNDykJDhe9SPqyJdGZ6o/h7laTA0/CivKyPT1OJQ9E2gMHKs8cTZM/cO2w0Atlqkl&#13;
+alIxepol0DNnUtmECVBqdnVsJesfmdoeptxgJAtxYbquFsTsrATNY2cscXpwmOca/Ewip48WQLFx&#13;
+e5s067jaIsAQGRIqpIup3bOtWBySrtImJ40lQCPeEcl96qzkv3utaVaNc3ukkhYkCDbMbK8NVd1B&#13;
+CVeeIBAe+n/SdpHH20o+6eIiZecsBGDLwlTYrFvuVqAa6xI7y8Vdz6irjPAVBEtG/iOc782aJ/lZ&#13;
+TwIDAQABo3UwczAMBgNVHRMBAf8EAjAAMA4GA1UdDwEB/wQEAwIHgDATBgNVHSUEDDAKBggrBgEF&#13;
+BQcDAzAdBgNVHQ4EFgQUGdfzQEbjQnANq28sfhEMTx+rsOcwHwYDVR0jBBgwFoAU530Lcvy1gZnG&#13;
+gCvZLOyCczK1qPcwDQYJKoZIhvcNAQELBQADggIBAEr22wnaQwZm2dhbUCqD+qZpTq2AF/tzxqAM&#13;
+eL/CiTjPbTblS4SNNwCKvTgMe9ucpUbenXmK7xE+DU9dN4om+t3VHbkOLQVyuLcd2WGsy7ZGwRvA&#13;
+f+TFwLbwjyTukOGm6Sd1qyZgvCPzBsKnft6vscvGy2yEpmFCeHJyBP8pvchg607zguRdNbkGYZXw&#13;
+G6jNipAbTtzdPTFKKr1bEf0sUGqMrlZIMPjflh2Vewu8ImNdX5IZdvBD6DdFVOC5wqV6u+W9ukE/&#13;
+mXZxDBYNl2AF7FTh04ucEVN3mHv7m2L0uFvUlhxchcagJhJsdQG+A0LVCemHbp6CSNQJx02KxqUG&#13;
+hakvpzhOyLo91h8YAQrEZJdNuKA8IYmBrFZQZDCz0uywKSyFfzPyJhvxylCLG/iDPPfE0VWcrMJ/&#13;
+WQJly/2XPg/NBCTF3pSKS0kCiA7PeaI3cWkMYYA3PMwYDvzqs1opBRglG7ikj0bQxSm3lcjMuuvW&#13;
+gBRksFKjP3K/nztsjSoYITOM9jR29ReIL3v0E8RbAFwA2RGq6Dxd0ixfbucMesy5Gnr8tfYy6rW+&#13;
+qSQqd3ah4+PSzBNVwIB4ytpdrG3SlhCI2i2Th8ek8Sjsaquh9qPAerWNd2+84HWOOGj1Xe1qc6vg&#13;
+qqu6JoK9EXKDiwBqDVkueIa+MhamE1VDnhn2pPui</X509Certificate></X509Data></KeyInfo><Object><SignatureProperties><SignatureProperty Id="_6983b9e6-e8b6-475d-9713-375b93cff0bd" Target="#_1024960a-61f4-42e1-bdf9-6e29f5607eb1"><Timestamp>2023-10-06 03:35:51</Timestamp></SignatureProperty></SignatureProperties></Object></Signature></xmi:XMI>
